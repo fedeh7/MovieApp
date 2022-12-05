@@ -1,0 +1,1 @@
+export {MovieInformationContainer} from './MovieInformationContainer'
